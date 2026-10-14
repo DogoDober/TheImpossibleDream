@@ -12199,7 +12199,7 @@
 "dGa" = (
 /obj/item/recipe_book/engineering,
 /obj/item/natural/feather,
-/turf/open/floor/rogue/hexstone,
+/turf/open/floor/rogue/blocks,
 /area/rogue/indoors/town/dwarfin)
 "dGe" = (
 /obj/effect/decal/cobbleedge{
@@ -307902,7 +307902,7 @@ sVT
 dFr
 dFr
 dFr
-dFr
+eMY
 jjx
 xIU
 nMT
@@ -308254,7 +308254,7 @@ vYg
 dFr
 dFr
 dFr
-dGa
+dFr
 dFr
 vuW
 eaR
@@ -308956,7 +308956,7 @@ atr
 uqn
 eZP
 skU
-eMY
+dFr
 sdq
 hRo
 sVT
@@ -309309,7 +309309,7 @@ uqn
 ptK
 skU
 dFr
-sVT
+dGa
 clK
 sVT
 cYs
@@ -309660,7 +309660,7 @@ gBF
 uqn
 eZP
 skU
-eMY
+dFr
 dnA
 hRo
 sVT
@@ -310718,7 +310718,7 @@ sVT
 dFr
 dFr
 dFr
-dFr
+eMY
 dSo
 xIU
 nMT
