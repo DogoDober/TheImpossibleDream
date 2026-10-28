@@ -29,6 +29,7 @@
 	"js/ts.tsdk.path": "tgui/node_modules/typescript/lib",
 	"Lua.diagnostics.enable": false,
 	"dreammaker.byondPath": [
-		""
+		"",
+		"C:\\Users\\behnk\\Documents\\BYOND"
 	]
 }
